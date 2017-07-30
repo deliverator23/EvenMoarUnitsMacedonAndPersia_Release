@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<BaseGameText>
+	<LocalizedText>
 		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BALLISTA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
 			<Text>La ballista griega (latín, del griego ballistra) era un arma de asedio. Sería montada con madera local, si es necesario. Algunas fueron colocadas dentro de grandes torres de asedio blindadas, móviles o incluso en el borde de un campo de batalla. Por todas las ventajas tácticas ofrecidas, sólo bajo Felipe II de Macedonia y aún más bajo su hijo Alejandro, la ballista comenzó a desarrollarse y ganar reconocimiento como motor de asedio y artillería de campaña.</Text>
 		</Replace>
@@ -37,5 +37,5 @@
 		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PERSIAN_WARSHIP_CHAPTER_HISTORY_PARA_5" Language="es_ES">
 			<Text>Xenophon describe su relato de un testigo ocular de un puente militar masivo creado por la unión de 37 barcos persas a través del río Tigris. Los persas utilizaron la flotabilidad de cada barco, con el fin de soportar un puente conectado por encima del cual se podía transferir el suministro. Herodoto también da muchos relatos de persas que utilizan barcos para construir puentes. Darius el Grande, en un intento de someter a los jinetes escitas al norte del Mar Negro, cruzó en el Bósforo, usando un puente enorme hecho conectando barcos Achaemenid, después marchó hasta el Danubio, cruzándolo por medio de un segundo puente del barco . El puente sobre el Bósforo esencialmente conectó la punta más cercana de Asia a Europa, abarcando al menos unos 1000 metros de aguas abiertas si no más. Heródoto describe el espectáculo, y lo llama el "puente de Darío".</Text>
 		</Replace>
-	</BaseGameText>
+	</LocalizedText>
 </GameData>

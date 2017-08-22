@@ -57,6 +57,9 @@ Uses elements from the Medieval 2: Total War mod Europa Barbarorum II.</Descript
       <File>Data/Even_MOAR_Units_MacedonPersia_Icons.xml</File>
     </UpdateIcons>
     <UpdateText id="MOARMacPerText">
+      <Properties>
+        <LoadOrder>10</LoadOrder>
+      </Properties>
       <File>Text/en_US/Even_MOAR_Units_MacedonPersia_Text.xml</File>
       <File>Text/en_US/Even_MOAR_Units_MacedonPersia_PediaText.xml</File>
       <File>Text/es_ES/Even_MOAR_Units_MacedonPersia_PediaText.xml</File>

@@ -28,9 +28,15 @@ Uses elements from the Medieval 2: Total War mod Europa Barbarorum II.</Descript
   </Dependencies>
   <FrontEndActions>
     <UpdateDatabase id="MOARMacPerConfig">
+      <Properties>
+        <LoadOrder>10</LoadOrder>
+      </Properties>
       <File>Data/Even_MOAR_Units_MacedonPersia_Config.xml</File>
     </UpdateDatabase>
     <UpdateIcons id="MOARMacPerConfigIcons">
+      <Properties>
+        <LoadOrder>10</LoadOrder>
+      </Properties>
       <File>Data/Even_MOAR_Units_MacedonPersia_Icons.xml</File>
     </UpdateIcons>
     <UpdateText id="MOARMacPerConfigText">
@@ -55,6 +61,9 @@ Uses elements from the Medieval 2: Total War mod Europa Barbarorum II.</Descript
       <File>Data/Even_MOAR_Units_MacedonPersia_Data.xml</File>
     </UpdateDatabase>
     <UpdateIcons id="MOARMacPerIcons">
+      <Properties>
+        <LoadOrder>10</LoadOrder>
+      </Properties>
       <File>Data/Even_MOAR_Units_MacedonPersia_Icons.xml</File>
     </UpdateIcons>
     <UpdateText id="MOARMacPerText">
